@@ -4,5 +4,6 @@ A calculator that calculates simple interest given principal, annual rate of int
    <br>p, principal amount</bt>
    <br>t, time period in years</br>
    <br>r, annual rate of interest</br>
+                                    
 <li>Output:</li>
    <br>simple interest = p*t*r</br>
